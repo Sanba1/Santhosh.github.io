@@ -1,15 +1,2 @@
-theme: jekyll-theme-minimal
 title: "Santhosh Balaji"
 description: "Data Science • AI • Machine Learning"
-
-
-
-show_downloads: false
-
-navigation:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /#projects
-  - title: Contact
-    url: /#contact
