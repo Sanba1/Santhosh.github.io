@@ -36,6 +36,7 @@
         <a href="https://www.linkedin.com/in/santhosh-balaji-22z/" target="_blank">LinkedIn</a>
         <a href="mailto:santhoshbalaji59@gmail.com">Email</a>
       </div>
+    </div>
   </section>
 
   <section id="about" class="section">
