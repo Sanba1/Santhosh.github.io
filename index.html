@@ -47,41 +47,53 @@
   </section>
 
   <section id="projects" class="section">
-    <h2>Projects</h2>
+  <h2 class="projects-title">My Projects</h2>
 
-    <div class="project">
-      <h3>Distributed Neural Networks – Decentralized Data Pipeline</h3>
-      <p>
-        Built a distributed data pipeline where mobile devices perform local vector search, embedding processing,
-        and 4-bit LLM inference, then send partial answers to a central summariser. Orchestrated the flow via
-        Slack → Python → Firestore and optimised JSON streaming and communication.
-      </p>
+  <div class="projects-grid">
+
+    <!-- PROJECT 1 -->
+    <div class="project-card">
+      <img src="assets/rag.jpg" alt="Distributed RAG" />
+      <div class="project-hover">
+        <h3>Distributed RAG System</h3>
+        <p>Decentralized pipeline using quantized LLMs and data parallelism across devices.</p>
+        <a href="https://github.com/YOUR_GITHUB_REPO" target="_blank" class="project-btn">View on GitHub</a>
+      </div>
     </div>
 
-    <div class="project">
-      <h3>Topic &amp; Sentiment Analysis of 50,000 News Articles</h3>
-      <p>
-        Analysed 50k articles using TF-IDF, K-Means, MinHash/LSH, and Louvain to extract topics and communities,
-        and tracked sentiment across time and publications.
-      </p>
+    <!-- PROJECT 2 -->
+    <div class="project-card">
+      <img src="assets/news.jpg" alt="NLP Project" />
+      <div class="project-hover">
+        <h3>50K News NLP Analysis</h3>
+        <p>Topic modeling, sentiment tracking, LSH graph clustering and Louvain communities.</p>
+        <a href="https://github.com/YOUR_GITHUB_REPO" target="_blank" class="project-btn">View on GitHub</a>
+      </div>
     </div>
 
-    <div class="project">
-      <h3>Powerlifting Performance ML Pipeline</h3>
-      <p>
-        Cleaned 18k+ powerlifting records, performed PCA, and trained regression and ANN models with
-        cross-validation and statistical tests to compare performance.
-      </p>
+    <!-- PROJECT 3 -->
+    <div class="project-card">
+      <img src="assets/powerlifting.jpg" alt="ML Pipeline" />
+      <div class="project-hover">
+        <h3>Powerlifting ML Pipeline</h3>
+        <p>PCA, regression, ANNs, cross-validation, and statistical model comparison.</p>
+        <a href="https://github.com/YOUR_GITHUB_REPO" target="_blank" class="project-btn">View on GitHub</a>
+      </div>
     </div>
 
-    <div class="project">
-      <h3>GCL Programming Language Toolchain</h3>
-      <p>
-        Implemented a full parser → compiler → interpreter toolchain for Guarded Command Language with
-        static analysis and model checking.
-      </p>
+    <!-- PROJECT 4 -->
+    <div class="project-card">
+      <img src="assets/gcl.jpg" alt="GCL Toolchain" />
+      <div class="project-hover">
+        <h3>GCL Language Toolchain</h3>
+        <p>Parser, AST, Program Graph compiler, interpreter, analyses, and model checking.</p>
+        <a href="https://github.com/YOUR_GITHUB_REPO" target="_blank" class="project-btn">View on GitHub</a>
+      </div>
     </div>
-  </section>
+
+  </div>
+</section>
+
 
   <section id="contact" class="section">
     <h2>Contact</h2>
