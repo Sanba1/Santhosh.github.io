@@ -1,3 +1,15 @@
 theme: jekyll-theme-minimal
 title: "Santhosh Balaji"
 description: "Portfolio • Data Science • AI • Machine Learning"
+
+
+logo: profile.jpg
+show_downloads: false
+
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /#projects
+  - title: Contact
+    url: /#contact
