@@ -33,7 +33,7 @@
       </div>
       <div class="socials">
         <a href="https://github.com/Sanba1" target="_blank">GitHub</a>
-        <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/santhosh-balaji-22z/" target="_blank">LinkedIn</a>
         <a href="mailto:santhoshbalaji59@gmail.com">Email</a>
       </div>
     </div>
