@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Santhosh Balaji
 Master’s student in Human-Centered AI  
 Python • SQL • Data Science • Machine Learning • Data Pipelines  
